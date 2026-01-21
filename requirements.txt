@@ -1,0 +1,13 @@
+requests==2.32.3
+beautifulsoup4==4.13.4
+lxml==6.0.2
+pandas==2.2.3
+pyarrow==22.0.0
+duckdb==1.4.3
+polars==1.37.0
+humanize==4.15.0
+streamlit==1.52.2
+altair==6.0.0
+plotly==6.5.1
+tqdm==4.67.1
+python-dateutil==2.9.0.post0
